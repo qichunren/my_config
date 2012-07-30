@@ -1,5 +1,7 @@
 set nu
 set nocompatible
+set mouse=a
+set selectmode=mouse
 syntax on
 filetype on
 filetype plugin on
