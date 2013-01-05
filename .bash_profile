@@ -19,6 +19,7 @@ alias faster='export http_proxy=http://192.168.8.25:1077'
 alias faster2='export http_proxy=http://localhost:1080'
 alias start_mongo='/usr/local/Cellar/mongodb/2.0.2-x86_64/bin/mongod --nojournal -f /Users/caojinhua/Dropbox/etc/mongod.conf'
 alias cd_xampp='cd /Applications/XAMPP/htdocs'
+alias start_pg='pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start'
 
 # open a new tab on Terminal with the current working dir
 function newtab {
