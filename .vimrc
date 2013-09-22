@@ -26,4 +26,3 @@ set encoding=utf-8
 set fileencodings=UTF-8,GB2312,UTF-16,BIG5
 set guioptions-=T  "remove toolbar
 set guifont=Courier\ New\ 13
-call pathogen#infect()
